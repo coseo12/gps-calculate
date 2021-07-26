@@ -4,6 +4,12 @@ import (
 	"math"
 )
 
+const (
+	R       = 6371.009		// Earth round (unit: km)
+	PI      = math.Pi		// PI
+	R_ROUND = 2 * PI * R	// Earth radius (unit: km)
+)
+
 type ConvertData struct {
 	Lat float64
 	Lng float64
@@ -11,11 +17,6 @@ type ConvertData struct {
 	Y   float64
 }
 
-const (
-	R       = 6371.009
-	PI      = math.Pi
-	R_ROUND = 2 * PI * R
-)
 
 func getDistanceLatitude() (float64, float64, float64) {
 	lat_km_degrees := R_ROUND / 360
