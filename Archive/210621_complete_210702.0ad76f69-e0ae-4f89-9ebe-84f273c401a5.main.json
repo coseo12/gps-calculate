@@ -1,0 +1,1396 @@
+{
+  "tours": [
+    {
+      "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+      "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+      "floorId": "72e9065f-cafb-401c-82bc-029f4d61a903",
+      "buildingId": "53f0cb8f-90ef-4d40-986a-37984f86278b",
+      "fpId": "25d495a0-3d01-4fa0-ac3e-948e754302ec",
+      "name": "210621_complete_210702",
+      "sweeps": {
+        "55448453-a336-40f0-8fc9-74aea23c4aba": {
+          "id": "55448453-a336-40f0-8fc9-74aea23c4aba",
+          "position": {
+            "x": -13011.626953125,
+            "y": 0,
+            "z": -5233.927734375
+          },
+          "rotation": {
+            "x": 0,
+            "y": 4.2062434973063345,
+            "z": 0
+          },
+          "links": [
+            "7d325796-9e7c-40b8-b5f1-4e77b8b99d5f"
+          ],
+          "cameraHeight": null
+        },
+        "7d325796-9e7c-40b8-b5f1-4e77b8b99d5f": {
+          "id": "7d325796-9e7c-40b8-b5f1-4e77b8b99d5f",
+          "position": {
+            "x": -11959.69140625,
+            "y": 0,
+            "z": -4927.6708984375
+          },
+          "rotation": {
+            "x": 0,
+            "y": 4.223696789826278,
+            "z": 0
+          },
+          "links": [
+            "6ed7f156-7d81-4529-9f89-c53dd65f5f7d",
+            "55448453-a336-40f0-8fc9-74aea23c4aba"
+          ],
+          "cameraHeight": null
+        },
+        "6ed7f156-7d81-4529-9f89-c53dd65f5f7d": {
+          "id": "6ed7f156-7d81-4529-9f89-c53dd65f5f7d",
+          "position": {
+            "x": -10990.5693359375,
+            "y": 0,
+            "z": -4654.91259765625
+          },
+          "rotation": {
+            "x": 0,
+            "y": 4.223696789826278,
+            "z": 0
+          },
+          "links": [
+            "eb7a79c6-9a80-4007-82c6-1e51f14276bd",
+            "7d325796-9e7c-40b8-b5f1-4e77b8b99d5f"
+          ],
+          "cameraHeight": null
+        },
+        "eb7a79c6-9a80-4007-82c6-1e51f14276bd": {
+          "id": "eb7a79c6-9a80-4007-82c6-1e51f14276bd",
+          "position": {
+            "x": -10257.9228515625,
+            "y": 0,
+            "z": -4483.11083984375
+          },
+          "rotation": {
+            "x": 0,
+            "y": 4.241150082346221,
+            "z": 0
+          },
+          "links": [
+            "859a2028-e949-4a85-b5ba-72c8e94cceee",
+            "6ed7f156-7d81-4529-9f89-c53dd65f5f7d"
+          ],
+          "cameraHeight": null
+        },
+        "859a2028-e949-4a85-b5ba-72c8e94cceee": {
+          "id": "859a2028-e949-4a85-b5ba-72c8e94cceee",
+          "position": {
+            "x": -9576.3935546875,
+            "y": 0,
+            "z": -4364.8994140625
+          },
+          "rotation": {
+            "x": 0,
+            "y": 4.380776422505767,
+            "z": 0
+          },
+          "links": [
+            "235a8948-cf76-459b-8918-54bbba826346",
+            "02e5bd22-7c38-4a82-95b1-e1676d294919",
+            "eb7a79c6-9a80-4007-82c6-1e51f14276bd"
+          ],
+          "cameraHeight": null
+        },
+        "235a8948-cf76-459b-8918-54bbba826346": {
+          "id": "235a8948-cf76-459b-8918-54bbba826346",
+          "position": {
+            "x": -9218.072265625,
+            "y": 0,
+            "z": -4389.6591796875
+          },
+          "rotation": {
+            "x": 0,
+            "y": 5.009094953223726,
+            "z": 0
+          },
+          "links": [
+            "859a2028-e949-4a85-b5ba-72c8e94cceee",
+            "02e5bd22-7c38-4a82-95b1-e1676d294919",
+            "fac72634-391e-4221-bb54-c4855c95a6a1",
+            "eb7a79c6-9a80-4007-82c6-1e51f14276bd"
+          ],
+          "cameraHeight": null
+        },
+        "02e5bd22-7c38-4a82-95b1-e1676d294919": {
+          "id": "02e5bd22-7c38-4a82-95b1-e1676d294919",
+          "position": {
+            "x": -9227.3447265625,
+            "y": 0,
+            "z": -4825.29736328125
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.06981317007977318,
+            "z": 0
+          },
+          "links": [
+            "235a8948-cf76-459b-8918-54bbba826346",
+            "859a2028-e949-4a85-b5ba-72c8e94cceee",
+            "744bc609-7ba9-48bd-8489-dd7c0970c1cd",
+            "33d24701-c7bd-4f54-95e0-c4be2e8e9c7c",
+            "fac72634-391e-4221-bb54-c4855c95a6a1"
+          ],
+          "cameraHeight": null
+        },
+        "744bc609-7ba9-48bd-8489-dd7c0970c1cd": {
+          "id": "744bc609-7ba9-48bd-8489-dd7c0970c1cd",
+          "position": {
+            "x": -9273.330078125,
+            "y": 0,
+            "z": -5413.99169921875
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.9424777960769379,
+            "z": 0
+          },
+          "links": [
+            "33d24701-c7bd-4f54-95e0-c4be2e8e9c7c",
+            "02e5bd22-7c38-4a82-95b1-e1676d294919",
+            "79794e05-59a5-4c46-8fb9-1410faedcf70"
+          ],
+          "cameraHeight": null
+        },
+        "33d24701-c7bd-4f54-95e0-c4be2e8e9c7c": {
+          "id": "33d24701-c7bd-4f54-95e0-c4be2e8e9c7c",
+          "position": {
+            "x": -9801.6845703125,
+            "y": 0,
+            "z": -5586.611328125
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.3490658503988659,
+            "z": 0
+          },
+          "links": [
+            "744bc609-7ba9-48bd-8489-dd7c0970c1cd",
+            "79794e05-59a5-4c46-8fb9-1410faedcf70",
+            "02e5bd22-7c38-4a82-95b1-e1676d294919"
+          ],
+          "cameraHeight": null
+        },
+        "79794e05-59a5-4c46-8fb9-1410faedcf70": {
+          "id": "79794e05-59a5-4c46-8fb9-1410faedcf70",
+          "position": {
+            "x": -9980.232421875,
+            "y": 0,
+            "z": -6325.89990234375
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.40142572795869574,
+            "z": 0
+          },
+          "links": [
+            "33d24701-c7bd-4f54-95e0-c4be2e8e9c7c"
+          ],
+          "cameraHeight": null
+        },
+        "fac72634-391e-4221-bb54-c4855c95a6a1": {
+          "id": "fac72634-391e-4221-bb54-c4855c95a6a1",
+          "position": {
+            "x": -8476.0546875,
+            "y": 0,
+            "z": -4437.6962890625
+          },
+          "rotation": {
+            "x": 0,
+            "y": 4.6600291028248595,
+            "z": 0
+          },
+          "links": [
+            "235a8948-cf76-459b-8918-54bbba826346",
+            "02e5bd22-7c38-4a82-95b1-e1676d294919",
+            "b6b8677f-c9a5-4bdc-9689-e11a729b1cbc",
+            "3133c49b-2717-4bec-b053-2155f0bd3c32"
+          ],
+          "cameraHeight": null
+        },
+        "b6b8677f-c9a5-4bdc-9689-e11a729b1cbc": {
+          "id": "b6b8677f-c9a5-4bdc-9689-e11a729b1cbc",
+          "position": {
+            "x": -7488.29345703125,
+            "y": 0,
+            "z": -4406.7099609375
+          },
+          "rotation": {
+            "x": 0,
+            "y": 4.1887902047863905,
+            "z": 0
+          },
+          "links": [
+            "3133c49b-2717-4bec-b053-2155f0bd3c32",
+            "fac72634-391e-4221-bb54-c4855c95a6a1"
+          ],
+          "cameraHeight": null
+        },
+        "3133c49b-2717-4bec-b053-2155f0bd3c32": {
+          "id": "3133c49b-2717-4bec-b053-2155f0bd3c32",
+          "position": {
+            "x": -7642.4140625,
+            "y": 0,
+            "z": -3867.797119140625
+          },
+          "rotation": {
+            "x": 0,
+            "y": 2.775073510670984,
+            "z": 0
+          },
+          "links": [
+            "b6b8677f-c9a5-4bdc-9689-e11a729b1cbc",
+            "609d6c36-a904-4be9-9bf9-5814323ae2cd",
+            "fac72634-391e-4221-bb54-c4855c95a6a1"
+          ],
+          "cameraHeight": null
+        },
+        "609d6c36-a904-4be9-9bf9-5814323ae2cd": {
+          "id": "609d6c36-a904-4be9-9bf9-5814323ae2cd",
+          "position": {
+            "x": -8078.4462890625,
+            "y": 0,
+            "z": -3188.212890625
+          },
+          "rotation": {
+            "x": 0,
+            "y": 2.303834612632515,
+            "z": 0
+          },
+          "links": [
+            "3133c49b-2717-4bec-b053-2155f0bd3c32",
+            "dd457ad5-3d3a-475f-9f8b-e99a03035675",
+            "576eee6f-b02d-473f-8bdf-2dfc20ea27e7"
+          ],
+          "cameraHeight": null
+        },
+        "dd457ad5-3d3a-475f-9f8b-e99a03035675": {
+          "id": "dd457ad5-3d3a-475f-9f8b-e99a03035675",
+          "position": {
+            "x": -8668.876953125,
+            "y": 0,
+            "z": -2614.5712890625
+          },
+          "rotation": {
+            "x": 0,
+            "y": 5.183627878423159,
+            "z": 0
+          },
+          "links": [
+            "576eee6f-b02d-473f-8bdf-2dfc20ea27e7",
+            "169b14e0-d663-47ad-bfe1-4c748afff8e0",
+            "609d6c36-a904-4be9-9bf9-5814323ae2cd"
+          ],
+          "cameraHeight": null
+        },
+        "169b14e0-d663-47ad-bfe1-4c748afff8e0": {
+          "id": "169b14e0-d663-47ad-bfe1-4c748afff8e0",
+          "position": {
+            "x": -8922.955078125,
+            "y": 0,
+            "z": -1939.7030029296875
+          },
+          "rotation": {
+            "x": 0,
+            "y": 5.7246799465414,
+            "z": 0
+          },
+          "links": [
+            "dd457ad5-3d3a-475f-9f8b-e99a03035675",
+            "576eee6f-b02d-473f-8bdf-2dfc20ea27e7"
+          ],
+          "cameraHeight": null
+        },
+        "576eee6f-b02d-473f-8bdf-2dfc20ea27e7": {
+          "id": "576eee6f-b02d-473f-8bdf-2dfc20ea27e7",
+          "position": {
+            "x": -8092.1142578125,
+            "y": 0,
+            "z": -2267.46435546875
+          },
+          "rotation": {
+            "x": 0,
+            "y": 4.258603374866164,
+            "z": 0
+          },
+          "links": [
+            "85184738-399d-4eac-9a95-11a2b9c4d55c",
+            "dd457ad5-3d3a-475f-9f8b-e99a03035675",
+            "169b14e0-d663-47ad-bfe1-4c748afff8e0",
+            "609d6c36-a904-4be9-9bf9-5814323ae2cd"
+          ],
+          "cameraHeight": null
+        },
+        "85184738-399d-4eac-9a95-11a2b9c4d55c": {
+          "id": "85184738-399d-4eac-9a95-11a2b9c4d55c",
+          "position": {
+            "x": -7603.24267578125,
+            "y": 0,
+            "z": -1851.849609375
+          },
+          "rotation": {
+            "x": 0,
+            "y": 0.6806784082777885,
+            "z": 0
+          },
+          "links": [
+            "576eee6f-b02d-473f-8bdf-2dfc20ea27e7",
+            "169b14e0-d663-47ad-bfe1-4c748afff8e0"
+          ],
+          "cameraHeight": null
+        }
+      },
+      "groups": [],
+      "demorooms": [],
+      "playerOptions": {
+        "type": "pro",
+        "showArrows": true,
+        "showFloorHotspots": true,
+        "showMesh": false,
+        "hotspotType": "none"
+      },
+      "onProcess": false,
+      "reconstruction": {
+        "type": "slam"
+      },
+      "cameraHeight": 194,
+      "capturedAt": "2021-06-21T18:48:44.000Z",
+      "scenesOrder": [
+        "55448453-a336-40f0-8fc9-74aea23c4aba",
+        "7d325796-9e7c-40b8-b5f1-4e77b8b99d5f",
+        "6ed7f156-7d81-4529-9f89-c53dd65f5f7d",
+        "eb7a79c6-9a80-4007-82c6-1e51f14276bd",
+        "859a2028-e949-4a85-b5ba-72c8e94cceee",
+        "235a8948-cf76-459b-8918-54bbba826346",
+        "02e5bd22-7c38-4a82-95b1-e1676d294919",
+        "744bc609-7ba9-48bd-8489-dd7c0970c1cd",
+        "33d24701-c7bd-4f54-95e0-c4be2e8e9c7c",
+        "79794e05-59a5-4c46-8fb9-1410faedcf70",
+        "fac72634-391e-4221-bb54-c4855c95a6a1",
+        "b6b8677f-c9a5-4bdc-9689-e11a729b1cbc",
+        "3133c49b-2717-4bec-b053-2155f0bd3c32",
+        "609d6c36-a904-4be9-9bf9-5814323ae2cd",
+        "dd457ad5-3d3a-475f-9f8b-e99a03035675",
+        "169b14e0-d663-47ad-bfe1-4c748afff8e0",
+        "576eee6f-b02d-473f-8bdf-2dfc20ea27e7",
+        "85184738-399d-4eac-9a95-11a2b9c4d55c"
+      ],
+      "meshRequested": false,
+      "wallHeight": 0,
+      "folderId": null,
+      "isFolder": false,
+      "updatedAt": "2021-07-04T11:31:06.106Z",
+      "createdAt": "2021-06-23T05:41:05.977Z",
+      "imageUrl": "https://storage.beamo.ai/tours/default/default_thumb.png",
+      "thumbUrl": "https://storage.beamo.ai/tours/default/default_thumb.png",
+      "sharedThumbUrl": "https://storage.beamo.ai/tours/default/default_thumb.png",
+      "id": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+      "deleted": false,
+      "scenes": [
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 313",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "dgr0rjMdx1JODnbi.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "rotation": {
+              "yaw": -0.4330138564109802,
+              "roll": -0.6087859272956848,
+              "pitch": 1.3998494148254395
+            },
+            "position": {
+              "y": 0,
+              "z": -2267.46435546875,
+              "x": -8092.1142578125
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.076Z",
+          "createdAt": "2021-06-23T05:41:06.076Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/576eee6f-b02d-473f-8bdf-2dfc20ea27e7/7ycE5rstUfH5.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/576eee6f-b02d-473f-8bdf-2dfc20ea27e7/dgC5re1VpPEM.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/576eee6f-b02d-473f-8bdf-2dfc20ea27e7/xxexNu1nI8Bh",
+          "id": "576eee6f-b02d-473f-8bdf-2dfc20ea27e7",
+          "fileName": "7ycE5rstUfH5.jpg",
+          "thumbName": "dgC5re1VpPEM.jpg",
+          "tilesName": "xxexNu1nI8Bh"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 298",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "cqJkpjqxwv2iniTv.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "position": {
+              "x": -11959.69140625,
+              "y": 0,
+              "z": -4927.6708984375
+            },
+            "rotation": {
+              "roll": -0.630387008190155,
+              "pitch": 1.4489896297454834,
+              "yaw": -0.3340268135070801
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.076Z",
+          "createdAt": "2021-06-23T05:41:06.076Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/7d325796-9e7c-40b8-b5f1-4e77b8b99d5f/qNjoABpNJr0l.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/7d325796-9e7c-40b8-b5f1-4e77b8b99d5f/mm2ws1pdxeeO.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/7d325796-9e7c-40b8-b5f1-4e77b8b99d5f/0GL7Eqg_jVmB",
+          "id": "7d325796-9e7c-40b8-b5f1-4e77b8b99d5f",
+          "fileName": "qNjoABpNJr0l.jpg",
+          "thumbName": "mm2ws1pdxeeO.jpg",
+          "tilesName": "0GL7Eqg_jVmB"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 299",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "d7h4C2cTs1SEIS59.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "rotation": {
+              "roll": -0.6136246919631958,
+              "pitch": 1.4604202508926392,
+              "yaw": -0.31295251846313477
+            },
+            "position": {
+              "z": -4654.91259765625,
+              "x": -10990.5693359375,
+              "y": 0
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.076Z",
+          "createdAt": "2021-06-23T05:41:06.076Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/6ed7f156-7d81-4529-9f89-c53dd65f5f7d/isQHuA2PMK9H.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/6ed7f156-7d81-4529-9f89-c53dd65f5f7d/cNPYYtCMckVu.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/6ed7f156-7d81-4529-9f89-c53dd65f5f7d/1odrHEC7BUiN",
+          "id": "6ed7f156-7d81-4529-9f89-c53dd65f5f7d",
+          "fileName": "isQHuA2PMK9H.jpg",
+          "thumbName": "cNPYYtCMckVu.jpg",
+          "tilesName": "1odrHEC7BUiN"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 308",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "9rWnOM4eM6s3jMjd.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "position": {
+              "y": 0,
+              "z": -4406.7099609375,
+              "x": -7488.29345703125
+            },
+            "rotation": {
+              "roll": -0.5876187086105347,
+              "yaw": -0.34019672870635986,
+              "pitch": 1.4616535902023315
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/b6b8677f-c9a5-4bdc-9689-e11a729b1cbc/qTTB3PFzxlaO.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/b6b8677f-c9a5-4bdc-9689-e11a729b1cbc/2DijEUt1VW1T.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/b6b8677f-c9a5-4bdc-9689-e11a729b1cbc/q_QcTVKj1XGU",
+          "id": "b6b8677f-c9a5-4bdc-9689-e11a729b1cbc",
+          "fileName": "qTTB3PFzxlaO.jpg",
+          "thumbName": "2DijEUt1VW1T.jpg",
+          "tilesName": "q_QcTVKj1XGU"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 306",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "I4R3BgsFsFkPFMtV.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "position": {
+              "y": 0,
+              "x": -9980.232421875,
+              "z": -6325.89990234375
+            },
+            "rotation": {
+              "yaw": -3.7460193634033203,
+              "roll": 1.7818431854248047,
+              "pitch": 1.7439792156219482
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.076Z",
+          "createdAt": "2021-06-23T05:41:06.076Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/79794e05-59a5-4c46-8fb9-1410faedcf70/2o_ZhR4QB20k.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/79794e05-59a5-4c46-8fb9-1410faedcf70/H8uoEp1WZ8z4.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/79794e05-59a5-4c46-8fb9-1410faedcf70/ej_LBIIsbDwz",
+          "id": "79794e05-59a5-4c46-8fb9-1410faedcf70",
+          "fileName": "2o_ZhR4QB20k.jpg",
+          "thumbName": "H8uoEp1WZ8z4.jpg",
+          "tilesName": "ej_LBIIsbDwz"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 311",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "rX6Ru5Ybft49LaUw.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "position": {
+              "x": -8668.876953125,
+              "z": -2614.5712890625,
+              "y": 0
+            },
+            "rotation": {
+              "pitch": 1.7147150039672852,
+              "roll": 0.40675055980682373,
+              "yaw": 0.7305264472961426
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/dd457ad5-3d3a-475f-9f8b-e99a03035675/HzuQh5sbqsnj.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/dd457ad5-3d3a-475f-9f8b-e99a03035675/fQSCRZrTlbq5.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/dd457ad5-3d3a-475f-9f8b-e99a03035675/SRmPlylyRl5p",
+          "id": "dd457ad5-3d3a-475f-9f8b-e99a03035675",
+          "fileName": "HzuQh5sbqsnj.jpg",
+          "thumbName": "fQSCRZrTlbq5.jpg",
+          "tilesName": "SRmPlylyRl5p"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 300",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "m7WtAPZAVdkh2TdO.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "rotation": {
+              "roll": -0.6105977296829224,
+              "yaw": -0.3234342336654663,
+              "pitch": 1.4428740739822388
+            },
+            "position": {
+              "x": -10257.9228515625,
+              "z": -4483.11083984375,
+              "y": 0
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/eb7a79c6-9a80-4007-82c6-1e51f14276bd/4EPbZGHFy8v6.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/eb7a79c6-9a80-4007-82c6-1e51f14276bd/2Z8g2s1xxnUO.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/eb7a79c6-9a80-4007-82c6-1e51f14276bd/P5X4z5hU56IN",
+          "id": "eb7a79c6-9a80-4007-82c6-1e51f14276bd",
+          "fileName": "4EPbZGHFy8v6.jpg",
+          "thumbName": "2Z8g2s1xxnUO.jpg",
+          "tilesName": "P5X4z5hU56IN"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 303",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "FHjw1ntxsOmcmA0L.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "rotation": {
+              "yaw": -4.367318153381348,
+              "roll": 1.470818042755127,
+              "pitch": 1.7382495403289795
+            },
+            "position": {
+              "z": -4825.29736328125,
+              "y": 0,
+              "x": -9227.3447265625
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/02e5bd22-7c38-4a82-95b1-e1676d294919/m72390dVOPgM.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/02e5bd22-7c38-4a82-95b1-e1676d294919/KkOaoEGwMDs0.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/02e5bd22-7c38-4a82-95b1-e1676d294919/KXqr5APa3c0V",
+          "id": "02e5bd22-7c38-4a82-95b1-e1676d294919",
+          "fileName": "m72390dVOPgM.jpg",
+          "thumbName": "KkOaoEGwMDs0.jpg",
+          "tilesName": "KXqr5APa3c0V"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 310",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "fESVAYz7HCQXCCpG.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "rotation": {
+              "roll": -2.412827968597412,
+              "pitch": 1.412582516670227,
+              "yaw": -2.3968300819396973
+            },
+            "position": {
+              "y": 0,
+              "z": -3188.212890625,
+              "x": -8078.4462890625
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/609d6c36-a904-4be9-9bf9-5814323ae2cd/19t1poLnxtjG.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/609d6c36-a904-4be9-9bf9-5814323ae2cd/cAbpMU4clK7C.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/609d6c36-a904-4be9-9bf9-5814323ae2cd/UiGgDjwTeZKi",
+          "id": "609d6c36-a904-4be9-9bf9-5814323ae2cd",
+          "fileName": "19t1poLnxtjG.jpg",
+          "thumbName": "cAbpMU4clK7C.jpg",
+          "tilesName": "UiGgDjwTeZKi"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 301",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "JrXltsrGRLdKIipj.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "position": {
+              "x": -9576.3935546875,
+              "z": -4364.8994140625,
+              "y": 0
+            },
+            "rotation": {
+              "pitch": 1.5468658208847046,
+              "roll": -0.507513701915741,
+              "yaw": 0.0675884485244751
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/859a2028-e949-4a85-b5ba-72c8e94cceee/DFKeL4tRuZ00.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/859a2028-e949-4a85-b5ba-72c8e94cceee/C1gM5UDHu7qz.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/859a2028-e949-4a85-b5ba-72c8e94cceee/N5PySXSuMWTy",
+          "id": "859a2028-e949-4a85-b5ba-72c8e94cceee",
+          "fileName": "DFKeL4tRuZ00.jpg",
+          "thumbName": "C1gM5UDHu7qz.jpg",
+          "tilesName": "N5PySXSuMWTy"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 304",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "zJrzLfhd5JGk2EaT.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "rotation": {
+              "yaw": -3.188445806503296,
+              "pitch": 1.6409308910369873,
+              "roll": 2.362908124923706
+            },
+            "position": {
+              "y": 0,
+              "x": -9273.330078125,
+              "z": -5413.99169921875
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/744bc609-7ba9-48bd-8489-dd7c0970c1cd/MfWKCzzyCdyq.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/744bc609-7ba9-48bd-8489-dd7c0970c1cd/g6sKZefJUOrb.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/744bc609-7ba9-48bd-8489-dd7c0970c1cd/fop1mQ_qF207",
+          "id": "744bc609-7ba9-48bd-8489-dd7c0970c1cd",
+          "fileName": "MfWKCzzyCdyq.jpg",
+          "thumbName": "g6sKZefJUOrb.jpg",
+          "tilesName": "fop1mQ_qF207"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 302",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "OItAKv3hC7R6GfAz.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "rotation": {
+              "yaw": 0.6113781929016113,
+              "roll": 0.21052619814872742,
+              "pitch": 1.6680527925491333
+            },
+            "position": {
+              "y": 0,
+              "z": -4389.6591796875,
+              "x": -9218.072265625
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/235a8948-cf76-459b-8918-54bbba826346/3iXpzXkNw1qX.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/235a8948-cf76-459b-8918-54bbba826346/afhqw6Hp2F3X.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/235a8948-cf76-459b-8918-54bbba826346/BAFKVTDEaD68",
+          "id": "235a8948-cf76-459b-8918-54bbba826346",
+          "fileName": "3iXpzXkNw1qX.jpg",
+          "thumbName": "afhqw6Hp2F3X.jpg",
+          "tilesName": "BAFKVTDEaD68"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 312",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "s91IZ3Icm9D0Q8OZ.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "position": {
+              "x": -8922.955078125,
+              "y": 0,
+              "z": -1939.7030029296875
+            },
+            "rotation": {
+              "pitch": 1.8584645986557007,
+              "roll": 1.0271928310394287,
+              "yaw": 1.4338483810424805
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/169b14e0-d663-47ad-bfe1-4c748afff8e0/ghV1ZbwxF_RS.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/169b14e0-d663-47ad-bfe1-4c748afff8e0/sj0GJSes3kWt.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/169b14e0-d663-47ad-bfe1-4c748afff8e0/Co1zEYbBaGE_",
+          "id": "169b14e0-d663-47ad-bfe1-4c748afff8e0",
+          "fileName": "ghV1ZbwxF_RS.jpg",
+          "thumbName": "sj0GJSes3kWt.jpg",
+          "tilesName": "Co1zEYbBaGE_"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 305",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "Bwy31tpd4ywIX7xA.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "position": {
+              "y": 0,
+              "z": -5586.611328125,
+              "x": -9801.6845703125
+            },
+            "rotation": {
+              "yaw": -4.226139545440674,
+              "roll": 1.7635047435760498,
+              "pitch": 1.8103277683258057
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/33d24701-c7bd-4f54-95e0-c4be2e8e9c7c/aC5A7u8tmxV0.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/33d24701-c7bd-4f54-95e0-c4be2e8e9c7c/OWCD95T9zmQu.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/33d24701-c7bd-4f54-95e0-c4be2e8e9c7c/OYBwu7vWxlKs",
+          "id": "33d24701-c7bd-4f54-95e0-c4be2e8e9c7c",
+          "fileName": "aC5A7u8tmxV0.jpg",
+          "thumbName": "OWCD95T9zmQu.jpg",
+          "tilesName": "OYBwu7vWxlKs"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 309",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "hZQM4fM7jOBp6UPK.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "rotation": {
+              "pitch": 1.2833631038665771,
+              "yaw": -1.7282350063323975,
+              "roll": -2.0217628479003906
+            },
+            "position": {
+              "z": -3867.797119140625,
+              "x": -7642.4140625,
+              "y": 0
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/3133c49b-2717-4bec-b053-2155f0bd3c32/OPJtOXqC_ycz.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/3133c49b-2717-4bec-b053-2155f0bd3c32/LYlLYJdRMdla.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/3133c49b-2717-4bec-b053-2155f0bd3c32/3pJ0OYQCKnuK",
+          "id": "3133c49b-2717-4bec-b053-2155f0bd3c32",
+          "fileName": "OPJtOXqC_ycz.jpg",
+          "thumbName": "LYlLYJdRMdla.jpg",
+          "tilesName": "3pJ0OYQCKnuK"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 307",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "1C2WWJCEl89PW3c3.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "position": {
+              "z": -4437.6962890625,
+              "x": -8476.0546875,
+              "y": 0
+            },
+            "rotation": {
+              "yaw": 0.23829281330108643,
+              "roll": -0.11106094717979431,
+              "pitch": 1.5833961963653564
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/fac72634-391e-4221-bb54-c4855c95a6a1/YQrAQt4FBv3Y.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/fac72634-391e-4221-bb54-c4855c95a6a1/gERqTIzmnZVD.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/fac72634-391e-4221-bb54-c4855c95a6a1/kNwOsxmvPY9k",
+          "id": "fac72634-391e-4221-bb54-c4855c95a6a1",
+          "fileName": "YQrAQt4FBv3Y.jpg",
+          "thumbName": "gERqTIzmnZVD.jpg",
+          "tilesName": "kNwOsxmvPY9k"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 314",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "XaljEEla8T87uTC8.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "rotation": {
+              "roll": 2.0168521404266357,
+              "yaw": -3.678154230117798,
+              "pitch": 1.7600537538528442
+            },
+            "position": {
+              "z": -1851.849609375,
+              "y": 0,
+              "x": -7603.24267578125
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/85184738-399d-4eac-9a95-11a2b9c4d55c/YOvvTAn3SB17.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/85184738-399d-4eac-9a95-11a2b9c4d55c/Nm7UJ22069E0.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/85184738-399d-4eac-9a95-11a2b9c4d55c/e8CQOdwfSjLT",
+          "id": "85184738-399d-4eac-9a95-11a2b9c4d55c",
+          "fileName": "YOvvTAn3SB17.jpg",
+          "thumbName": "Nm7UJ22069E0.jpg",
+          "tilesName": "e8CQOdwfSjLT"
+        },
+        {
+          "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+          "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+          "tourId": "0ad76f69-e0ae-4f89-9ebe-84f273c401a5",
+          "name": "Point 297",
+          "onProcess": false,
+          "panoJson": {
+            "blurred": false,
+            "captureTime": 1624326710,
+            "grid_size": [
+              1,
+              4
+            ],
+            "levels": 2,
+            "maxAth": 180,
+            "maxAtv": 90,
+            "minAth": -180,
+            "minAtv": -90,
+            "resolution_preview": 512,
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "source_height": 3360,
+            "source_width": 6720,
+            "thumb_name": "U8BCu12LNreLWNCe.jpg"
+          },
+          "obj3d": [],
+          "slam": {
+            "position": {
+              "x": -13011.626953125,
+              "z": -5233.927734375,
+              "y": 0
+            },
+            "rotation": {
+              "pitch": 1.4875057935714722,
+              "yaw": -0.25567173957824707,
+              "roll": -0.6259253025054932
+            }
+          },
+          "autoleveled": false,
+          "autoblurred": false,
+          "metadata": null,
+          "updatedAt": "2021-06-23T05:41:06.077Z",
+          "createdAt": "2021-06-23T05:41:06.077Z",
+          "imageUrl": "https://storage.beamo.ai/scenes/items/26afa824-36be-4532-a557-eb0b3b60eaf0/55448453-a336-40f0-8fc9-74aea23c4aba/d4f_EOsuFHRL.jpg",
+          "thumbUrl": "https://storage.beamo.ai/scenes/thumbs/26afa824-36be-4532-a557-eb0b3b60eaf0/55448453-a336-40f0-8fc9-74aea23c4aba/ISlGrWGxNsTo.jpg",
+          "tilesUrl": "https://storage.beamo.ai/scenes/tiles/26afa824-36be-4532-a557-eb0b3b60eaf0/55448453-a336-40f0-8fc9-74aea23c4aba/u6POCc0wa1P4",
+          "id": "55448453-a336-40f0-8fc9-74aea23c4aba",
+          "fileName": "d4f_EOsuFHRL.jpg",
+          "thumbName": "ISlGrWGxNsTo.jpg",
+          "tilesName": "u6POCc0wa1P4"
+        }
+      ],
+      "tags": [],
+      "floorplan": {
+        "vendorId": "04bbb0f5-3ad9-42bf-bc59-eb0a7e587cb4",
+        "userId": "26afa824-36be-4532-a557-eb0b3b60eaf0",
+        "width": 1858,
+        "height": 969,
+        "scale": 24.248537706402594,
+        "dx": 0,
+        "dy": 0,
+        "opacity": 70,
+        "angle": 0,
+        "fileName": "대구_인동촌-3.png",
+        "updatedAt": "2021-06-28T02:27:06.907Z",
+        "createdAt": "2021-06-23T05:41:05.966Z",
+        "id": "25d495a0-3d01-4fa0-ac3e-948e754302ec",
+        "imageUrl": "https://storage.beamo.ai/floorplan/26afa824-36be-4532-a557-eb0b3b60eaf0/25d495a0-3d01-4fa0-ac3e-948e754302ec/a16tDjoHaong.png",
+        "thumbUrl": "https://storage.beamo.ai/floorplan/thumb/26afa824-36be-4532-a557-eb0b3b60eaf0/25d495a0-3d01-4fa0-ac3e-948e754302ec/LiLe08wgYyOF.png",
+        "smallImageUrl": "https://storage.beamo.ai/floorplan/rthumb/26afa824-36be-4532-a557-eb0b3b60eaf0/25d495a0-3d01-4fa0-ac3e-948e754302ec/NqrE0B8ZwwHc.png",
+        "fpName": "a16tDjoHaong.png",
+        "fpThumbName": "LiLe08wgYyOF.png",
+        "fpResizedThumbName": "NqrE0B8ZwwHc.png"
+      },
+      "annotation": null,
+      "measurement": null,
+      "tracks": []
+    }
+  ]
+}

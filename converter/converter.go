@@ -28,7 +28,7 @@ func getDistanceLatitude() (float64, float64, float64) {
 
 //Get time to distance for longitude 
 func getDistanceLongitude(degrees float64) (float64, float64, float64) {
-	r_round_lat := math.Cos(degrees) * R_ROUND
+	r_round_lat := math.Cos(degrees) * R_ROUND 
 	lng_km_degrees := r_round_lat / 360
 	lng_km_minutes := lng_km_degrees / 60
 	lng_km_seconds := lng_km_minutes / 60
@@ -60,7 +60,7 @@ func GetConvert(convertData ConvertData) (float64, float64) {
 	_, _, lat_km_seconds := getDistanceLatitude()
 	_, _, lng_km_seconds := getDistanceLongitude(math.Floor(convertData.Lat))
 
-	// meter to sec
+	// Meter to sec
 	y_sec := convertMeterToSec(convertData.Y, lat_km_seconds)
 	x_sec := convertMeterToSec(convertData.X, lng_km_seconds)
 
@@ -68,7 +68,7 @@ func GetConvert(convertData ConvertData) (float64, float64) {
 	lat_degrees, lat_minutes, lat_seconds := convertDDToDMS(convertData.Lat)
 	lng_degrees, lng_minutes, lng_seconds := convertDDToDMS(convertData.Lng)
 
-	// sum sec
+	// Sum to sec
 	lat_seconds_sum := lat_seconds + y_sec
 	lng_seconds_sum := lng_seconds + x_sec
 
