@@ -5,9 +5,9 @@ import (
 )
 
 const (
-	R       = 6371.009		// Earth round (unit: km)
+	R       = 6371.009		// Earth radius (unit: km)
 	PI      = math.Pi		// PI
-	R_ROUND = 2 * PI * R	// Earth radius (unit: km)
+	R_ROUND = 2 * PI * R	// Earth round (unit: km)
 )
 
 type ConvertData struct {
@@ -73,4 +73,8 @@ func GetConvert(convertData ConvertData) (float64, float64) {
 	lng_seconds_sum := lng_seconds + x_sec
 
 	return convertDMSToDD(lat_degrees, lat_minutes, lat_seconds_sum), convertDMSToDD(lng_degrees, lng_minutes, lng_seconds_sum)
+}
+
+func ConvertDistanceInPixelsToMeter(dp float64) float64 {
+	return dp / 100 / 1000 * -1
 }
