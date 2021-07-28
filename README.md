@@ -12,7 +12,9 @@ Distance convert to decimal degrees
     Y float64
   }
 
-  GetConvert(convertData ConvertData) (float64, float64) {}
+func GetConvert(convertData ConvertData) (float64, float64) {}
+
+func ConvertDistanceInPixelsToMeter(dp float64) float64 {}
 ```
 
 ## Parser
@@ -22,6 +24,8 @@ type Article struct {
 	X float64 `json:"x"`
 	Y float64 `json:"y"`
 }
+
+func (d *Article) SetGPS(cLat float64, cLng float64, filename string) {}
 
 func SetJson(articles []Article) {}
 
